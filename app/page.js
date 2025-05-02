@@ -18,6 +18,7 @@ export default function Home() {
             Get started by editing <code>app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
+          
           <li>こんにちは</li>
         </ol>
 
